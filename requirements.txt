@@ -1,0 +1,5 @@
+beautifulsoup4==4.3.2
+google-api-python-client
+dropbox
+ipython
+ipdb
